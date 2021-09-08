@@ -1,0 +1,47 @@
+.post {
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.texto p {
+    margin: -5px 0;
+    
+    padding: -30px;
+    font-size: 15px;
+}
+
+.menu {
+    margin-left: 300px;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 400px;
+}
+
+.botones{
+    margin: 10px;
+}
+#bookmark {
+    float: right;
+}
+
+.contenido p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.texto {
+    float:left;
+}
+
